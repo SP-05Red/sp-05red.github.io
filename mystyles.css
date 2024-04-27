@@ -26,7 +26,6 @@ background-color:#231F20;
 color:#ffffff;
 }
 
-/*My code*/
 .navbar {
     overflow: hidden;
     background-color: #231F20;
@@ -78,22 +77,7 @@ color:#ffffff;
 .dropdown:hover .dropdown-content {
     display: block;
 }
-/*End of my code*/
 
-nav { font-weight: bold;
-     padding: 5px;
-     float:left;
-     width: 160px;
-     padding: 20px 5px 0 20px;
-}
-nav a { text-decoration: none; }
-nav a:link { color: #000033; }
-nav a:visited { color: #344873 }
-nav a:hover { color: #FFFFFF; }
-nav ul { list-style-type: none;
-       margin: 0;
-       padding-left: 0;
-}
 h2 {
     color: #000000;
     font-family: Arial, helvetica;
@@ -111,9 +95,7 @@ footer { font-size: 0.70em;
        margin-left: 20px;
        background-color: #FFFFFF;
 }
-h3 { 
-    color: #000000;
-}
+
 span {
     font-weight: bolder;
     font-size: larger;
@@ -138,7 +120,6 @@ figure {
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    /* border: 2px solid #000000; */
     margin: auto;
 }
 figure img {
@@ -152,11 +133,6 @@ figure figcaption {
     border-bottom: 2px solid #000000;
 }
 
-/*
-main img { float: left;
-           padding-right: 20px;
-           padding-bottom: 10px;
-}*/
 main ul { list-style-position: inside; }
 .clear { clear: both; }
 header, nav, main, footer { display: block; }
